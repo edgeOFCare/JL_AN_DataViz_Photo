@@ -10,4 +10,4 @@ layout: default
 
 
 #Visualization of Data#
-![this is an image](http://imgur.com/pSadi61)
+![this is an image](http://i.imgur.com/pSadi61.jpg?1)

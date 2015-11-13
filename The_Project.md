@@ -10,4 +10,20 @@ layout: default
 
 
 #Visualization of Data#
-![this is an image](http://i.imgur.com/pSadi61.jpg?1)
+![this is an image](http://i.imgur.com/pSadi61.jpg?1) ![this is an image](http://i.imgur.com/l1sy3WU.png?1)
+
+#Introduction
+
+#Alex's Reflection
+
+#Justin's Reflection
+
+#Conclusion
+
+
+
+
+
+
+
+

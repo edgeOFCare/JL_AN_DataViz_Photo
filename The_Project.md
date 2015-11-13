@@ -7,12 +7,12 @@ reviewers:
 - n/a
 layout: default
 ---
-
+#Introduction
 
 #Visualization of Data#
 ![this is an image](http://i.imgur.com/pSadi61.jpg?1) ![this is an image](http://i.imgur.com/l1sy3WU.png?1)
 ###Photo Rolls:         Alex                                                  Justin
-#Introduction
+
 
 #Alex's Reflection
 

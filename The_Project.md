@@ -7,10 +7,11 @@ reviewers:
 - n/a
 layout: default
 ---
-“This wants to be outside the cage of the age” 
-–Mission of Burma from the song “This is Not a Photograph” (1981)
 
 #Introduction
+
+###“This wants to be outside the cage of the age” 
+–Mission of Burma from the song “This is Not a Photograph” (1981)
 
 ##How did Justin and I come to choose this type of Data and Visualization?
 We started this process by branching out and looking for data that was relevant or interesting to us.  We looked at Statistics Canada and Comic Book charts. Ultimately, while the information was interesting, we found that it was difficult to find data that was formatted to fit RAW’s needs.
